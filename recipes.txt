@@ -4,3 +4,7 @@ This is to maintain all recipes.
 Kheer
 Pasta
 Chicken Fry
+Beans
+Pizza
+
+Thanks :)
